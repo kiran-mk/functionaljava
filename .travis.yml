@@ -4,7 +4,7 @@ sudo: false
 
 jdk:
   - oraclejdk8
-
+asd
 script:
   - jdk_switcher use oraclejdk7 && export JAVA7_HOME=$JAVA_HOME
   - jdk_switcher use oraclejdk8 && export JAVA8_HOME=$JAVA_HOME
