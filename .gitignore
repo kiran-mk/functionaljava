@@ -8,7 +8,7 @@ lib_managed
 build
 *.iml
 .settings
-.classpath
+.classpathasdf
 .project
 .DS_Store
 MANIFEST.MF
